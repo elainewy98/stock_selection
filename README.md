@@ -9,7 +9,9 @@ The folder contains our datasets and code files.
 1. factor_final_data.pkl
 
 Data Type: dict
+
 key: date (the date of the last trading day of each month)
+
 value: the corresponding factors data of each period
 	data format: dataframe/index: stock codes/columns: factors
 
