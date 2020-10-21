@@ -2,9 +2,7 @@
 
 The folder contains our datasets and code files.
 
-##########
-#Datasets#
-##########
+- Data Set
 
 1. factor_final_data.pkl
 
@@ -24,9 +22,7 @@ Please refer to this as the final test set.
 The original file of test set data. Same format as factor_final_data.pkl
 
 
-############
-#Code files#
-############
+- Code Files
 
 1. Data Wraggling.ipynb
 
