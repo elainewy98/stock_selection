@@ -35,6 +35,7 @@ This ipynb file can be opened in normal jupyter notebook.
 
 Please put this file with test_set.pkl and train_set.csv under same folder address when opennig since it will write data.
 
+![image](https://{https://github.com/elainewy98/stock_selection/back_test.png})
 
 
 
