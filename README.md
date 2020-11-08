@@ -1,6 +1,5 @@
-# stock_selection
+# Indutry-specific stock selection model
 
-The folder contains our datasets and code files.
 
 - Data Set
 
